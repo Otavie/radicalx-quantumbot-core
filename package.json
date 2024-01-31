@@ -1,0 +1,11 @@
+{
+  "name": "radicalx-quantumbot-core",
+  "version": "1.0.0",
+  "description": "chatgpt api integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otavie Okuoyo",
+  "license": "ISC"
+}
